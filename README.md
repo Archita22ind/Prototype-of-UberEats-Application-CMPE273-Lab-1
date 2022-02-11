@@ -1,6 +1,6 @@
 # **UberEats prototype with React JS, Node JS and SQL database**
 
-## **CMPE273-UberEats-Lab-1**
+## **CMPE273 Project : UberEats-Lab-1**
 
 ## Getting Started
 
@@ -31,7 +31,6 @@ Have used the below command for npm install becuase the enzyme adapter used for 
 
 `npm install --legacy-peer-deps`
 
-
 To run the Backend, go into the Backend directory and run the following command:
 
 `node app.js`
@@ -41,5 +40,3 @@ To run the Backend, go into the Backend directory and run the following command:
 `npm start`
 
 To use the application, visit the following url from your browser: http://localhost:3000/
-
-
