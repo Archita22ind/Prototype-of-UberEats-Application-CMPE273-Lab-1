@@ -1,4 +1,4 @@
-# ** WEB APPLICATIOIN : UberEats prototype with React JS, Node JS and SQL database**
+# **WEB APPLICATION : UberEats prototype with React JS, Node JS and SQL database**
 
 ## **CMPE273 Project : UberEats-Lab-1**
 
@@ -8,7 +8,7 @@
 
 <img src="https://github.com/Archita22ind/CMPE273-UberEats-Lab-1/blob/main/glimpseofapp.png" >
 
-## Getting Started with the Github Repo
+## Getting Started with the Github Repository-
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
